@@ -20,6 +20,6 @@ public class MyResource {
     @GET
     @Produces(MediaType.TEXT_PLAIN)
     public String getIt() {
-        return "Got it! I am recording my first changes in Git. By Ramesh - For Bug001";
+        return "Got it! I am recording my first changes in Git. By Ramesh - For Bug001-update";
     }
 }
