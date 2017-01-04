@@ -1,0 +1,1 @@
+This is a sample JAX RS  based application implementation using Jersey framework. We followed te tutorial in the official Jeysey website
